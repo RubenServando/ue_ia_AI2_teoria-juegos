@@ -5,15 +5,15 @@ A partir de un código aportado, se trata de optimizar el cómputo realizando la
 El tiempo de procesamiento de la búsqueda de la IA implementada se reduce considerablemente en comparación con el original, tal como vemos a continuación:
 
 Cómputo SIN poda:
-Cómputo 1 --> Evaluacion: 5.1661334s
-Cómputo 2 --> Evaluacion: 0.057585s
-Cómputo 3 --> Evaluacion: 0.0011439s
-Cómputo 4 --> Evaluacion: 0.0001688s  
-Cómputo 5 --> Evaluacion: 2.69e-05s
+| Cómputo 1 --> Evaluacion: 5.1661334s
+| Cómputo 2 --> Evaluacion: 0.057585s
+| Cómputo 3 --> Evaluacion: 0.0011439s
+| Cómputo 4 --> Evaluacion: 0.0001688s  
+| Cómputo 5 --> Evaluacion: 2.69e-05s
 
 Cómputo CON poda:
-Cómputo 1 --> Evaluacion: 1.9440966s
-Cómputo 2 --> Evaluacion: 0.0265758s
-Cómputo 3 --> Evaluacion: 0.0008054s
-Cómputo 4 --> Evaluacion: 6.15e-05s
-Cómputo 5 --> Evaluacion: 1.76e-05s
+| Cómputo 1 --> Evaluacion: 1.9440966s
+| Cómputo 2 --> Evaluacion: 0.0265758s
+| Cómputo 3 --> Evaluacion: 0.0008054s
+| Cómputo 4 --> Evaluacion: 6.15e-05s
+| Cómputo 5 --> Evaluacion: 1.76e-05s
