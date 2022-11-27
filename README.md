@@ -1,6 +1,6 @@
 # ue_ia_AI2_teoria-juegos
-Actividad de Inteligencia Artificial que resuelve una teoría de juegos (3 en raya)
-Actividad que calcula la velocidad de cómputo del código implementado en GoogleColab utilizando algoritmo de teoría de juegos (3 en raya). 
+Actividad de Inteligencia Artificial que resuelve una teoría de juegos (3 en raya).
+Con esta actividad calculamos la velocidad de cómputo utilizando algoritmos de teoría de juegos (3 en raya), el código está implementado en GoogleColab . 
 A partir de un código aportado, se trata de optimizar el cómputo realizando la poda de ramas innecesarias en un árbol de desición. 
 El tiempo de procesamiento de la búsqueda de la IA implementada se reduce considerablemente en comparación con el original, tal como vemos a continuación:
 
